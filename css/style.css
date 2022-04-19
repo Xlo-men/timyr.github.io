@@ -1,0 +1,1277 @@
+header {
+background: url(../icons/Rectangle\ 13.png);
+position: absolute;
+width: 1920px;
+height: 124px;
+left: 0px;
+top: 0px;
+}
+
+header nav {
+    
+padding: 0%;
+
+}
+.menu_item1{
+    position: absolute;
+width: 79px;
+height: 18px;
+left: 65px;
+top: 47px;
+list-style-type: none;
+color: #FFFFFF;
+
+}
+
+.menu_item2{
+    position: absolute;
+width: 21px;
+height: 18px;
+left: 209px;
+top: 53px;
+list-style-type: none;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 90%;
+color: #FFFFFF;
+}
+
+.en{
+    font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 90%;
+/* identical to box height, or 18px */
+/* Белый */
+color: #fcfcfcda;
+}
+
+.menu_item3{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 292px;
+top: 47px;
+list-style-type: none;
+color: #FFFFFF;
+}
+
+.menu_item4{
+    position: absolute;
+width: 400px;
+height: 45px;
+left: 760px;
+top: 40px;
+list-style-type: none;
+color: #FFFFFF;
+}
+
+.menu_item5{
+    position: absolute;
+    width: 255px;
+    height: 124px;
+    left: 1665px;
+    top: 53px;
+    list-style-type: none;
+    color: #FFFFFF;
+}
+
+.hr{
+    position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 114px;
+border: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.hr2{
+    position: absolute;
+width: 124px;
+height: 0px;
+left: 1400px;
+top: 50px;
+
+border: 1px solid rgba(255, 255, 255, 0.16);
+transform: rotate(-90deg);
+
+}
+
+.promo{
+    display: flex;
+    background: url(../img/Rectangle\ 2.png);
+    width: 1920px;
+height: 694px;
+left: 0px;
+top: 0px;
+}
+
+.promo_header{
+    position: absolute;
+width: 319px;
+height: 110px;
+left: 801px;
+top: 314px;
+color: white;
+/* Заголовок_Italian_1 */
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 110px;
+line-height: 100%;
+/* identical to box height, or 110px */
+text-align: center;
+}
+
+.promo_subheader{
+    position: absolute;
+width: 176px;
+height: 31px;
+left: 872px;
+top: 472px;
+/* Больше основного */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+text-align: center;
+color: #FFFFFF;
+}
+
+/* Односпальная комната */
+
+.single_room2{
+   position: absolute;
+width: 930px;
+height: 497px;
+left: 495px;
+top: 814px;
+
+}
+
+.button_left{
+    position: absolute;
+width: 65px;
+height: 65px;
+left: 1244px;
+top: 1210px;
+background: transparent;
+border: none !important;
+}
+
+.button_ride{
+    position: absolute;
+width: 65px;
+height: 65px;
+left: 1330px;
+top: 1210px;
+background: transparent;
+border: none !important;
+}
+
+.room_only1{
+    position: absolute;
+width: 143px;
+height: 29px;
+left: 495px;
+top: 1366px;
+/* Подзаголовок_Raleway */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 160%;
+/* identical to box height, or 29px */
+letter-spacing: 0.25em;
+text-transform: uppercase;
+/* Светло-коричневый */
+color: #A18F88;
+}
+
+.single_room1{
+    position: absolute;
+width: 330px;
+height: 78px;
+left: 495px;
+top: 1420px;
+/* Заголовок_Italian_2 */
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 78px;
+/* identical to box height */
+/* Тёмный */
+color: #424454;
+
+}
+.room_description{
+    position: absolute;
+width: 61px;
+height: 17px;
+left: 495px;
+top: 1531px;
+/* Мелкий */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+letter-spacing: 0.25em;
+text-transform: uppercase;
+/* Светло-коричневый */
+color: #A18F88;
+}
+
+.room_description1{
+    position: absolute;
+width: 545px;
+height: 17px;
+left: 587px;
+top: 1531px;
+/* Мелкий */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+letter-spacing: 0.25em;
+text-transform: uppercase;
+/* Светло-коричневый */
+color: #A18F88;
+}
+
+.Room_Features{
+    position: absolute;
+width: 132px;
+height: 31px;
+left: 495px;
+top: 1590px;
+/* Больше основного */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+/* Тёмный */
+color: #424454;
+}
+
+.room_list1{
+    position: absolute;
+width: 172px;
+height: 27px;
+left: 495px;
+top: 1652px;
+/* Основной текст_Raleway */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+/* Тёмный */
+color: #424454;
+}
+
+.room_list2{
+    position: absolute;
+width: 137px;
+height: 27px;
+left: 495px;
+top: 1684px;
+/* Основной текст_Raleway */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+/* Тёмный */
+color: #424454;
+}
+
+.room_list3{
+    position: absolute;
+    width: 207px;
+    height: 27px;
+    left: 495px;
+    top: 1716px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.room_list4{
+    position: absolute;
+    width: 96px;
+    height: 27px;
+    left: 855px;
+    top: 1652px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.room_list5{
+    position: absolute;
+    width: 247px;
+    height: 27px;
+    left: 855px;
+    top: 1685px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.room_list6{
+    position: absolute;
+    width: 156px;
+    height: 27px;
+    left: 855px;
+    top: 1718px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.button_single_room{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 30px 84px;
+position: absolute;
+width: 255px;
+height: 78px;
+left: 495px;
+top: 1793px;
+/* Белый */
+background: #FFFFFF;
+/* Светло-коричневый */
+border: 1px solid #A18F88;
+box-sizing: border-box;
+}
+
+/* Двуспальная комната */
+
+.img_room2{
+    position: absolute;
+width: 930px;
+height: 497px;
+left: 495px;
+top: 2021px;
+background: url(andrew-neel-T0eb55DxDN4-unsplash.jpg);
+}
+
+.button_left_2{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 1244px;
+    top: 2416px;
+    border: 0;
+    background: transparent;
+    border: none !important;
+
+}    
+
+.button_ride_2{
+    position: absolute;
+width: 65px;
+height: 65px;
+left: 1330px;
+top: 2416px;
+    background: transparent;
+    border: none !important;
+
+}
+
+.double_room_only{
+    position: absolute;
+width: 143px;
+height: 29px;
+left: 495px;
+top: 2572px;
+/* Подзаголовок_Raleway */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 160%;
+/* identical to box height, or 29px */
+letter-spacing: 0.25em;
+text-transform: uppercase;
+/* Светло-коричневый */
+color: #A18F88;
+}
+
+.double_room1{
+    position: absolute;
+width: 359px;
+height: 78px;
+left: 495px;
+top: 2627px;
+/* Заголовок_Italian_2 */
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 78px;
+/* identical to box height */
+/* Тёмный */
+color: #424454;
+}
+
+.Room_Features2{
+    position: absolute;
+width: 132px;
+height: 31px;
+left: 495px;
+top: 2735px;
+/* Больше основного */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+/* Тёмный */
+color: #424454;
+}
+
+.list1{
+    position: absolute;
+    width: 327px;
+    height: 27px;
+    left: 495px;
+    top: 2797px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.list2{
+    position: absolute;
+    width: 137px;
+    height: 27px;
+    left: 495px;
+    top: 2829px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.list3{
+    position: absolute;
+    width: 247px;
+    height: 27px;
+    left: 495px;
+    top: 2861px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.list4{
+    position: absolute;
+    width: 108px;
+    height: 27px;
+    left: 495px;
+    top: 2893px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.list5{
+    position: absolute;
+    width: 154px;
+    height: 27px;
+    left: 495px;
+    top: 2925px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.list6{
+    position: absolute;
+    width: 172px;
+    height: 27px;
+    left: 855px;
+    top: 2797px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.list7{
+    position: absolute;
+    width: 61px;
+    height: 27px;
+    left: 855px;
+    top: 2829px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.list8{
+    position: absolute;
+    width: 207px;
+    height: 27px;
+    left: 855px;
+    top: 2861px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.list9{
+    position: absolute;
+    width: 156px;
+    height: 27px;
+    left: 855px;
+    top: 2893px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.button_double_room{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 30px 84px;
+position: absolute;
+width: 255px;
+height: 78px;
+left: 495px;
+top: 3002px;
+/* Белый */
+background: #FFFFFF;
+/* Светло-коричневый */
+border: 1px solid #A18F88;
+box-sizing: border-box;
+}
+
+.RATES_FROM{
+    position: absolute;
+width: 102px;
+height: 17px;
+left: 1273px;
+top: 3002px;
+/* Мелкий */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+letter-spacing: 0.25em;
+text-transform: uppercase;
+/* Светло-коричневый */
+color: #A18F88;
+}
+
+.cost{
+    position: absolute;
+width: 152px;
+height: 50px;
+left: 1273px;
+top: 3030px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 100%;
+/* identical to box height, or 50px */
+text-transform: uppercase;
+/* Тёмный */
+color: #424454;
+}
+
+/* Семейная комната */
+
+.img_room3{
+    position: absolute;
+width: 930px;
+height: 497px;
+left: 495px;
+top: 3230px;
+background: url(joseph-greve-Xdk7tFHP6kU-unsplash.jpg);
+}
+
+.button_left_3{
+    position: absolute;
+width: 65px;
+height: 65px;
+left: 1244px;
+top: 3626px;
+background: transparent;
+border: none !important;
+}
+
+.button_ride_3{
+    position: absolute;
+width: 65px;
+height: 65px;
+left: 1330px;
+top: 3626px;
+background: transparent;
+border: none !important;
+}
+
+.Family_room_only{
+    position: absolute;
+width: 143px;
+height: 29px;
+left: 495px;
+top: 3782px;
+/* Подзаголовок_Raleway */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 160%;
+/* identical to box height, or 29px */
+letter-spacing: 0.25em;
+text-transform: uppercase;
+/* Светло-коричневый */
+color: #A18F88;
+}
+
+.Family{
+    position: absolute;
+width: 176px;
+height: 78px;
+left: 495px;
+top: 3836px;
+/* Заголовок_Italian_2 */
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 78px;
+/* identical to box height */
+/* Тёмный */
+color: #424454;
+}
+
+.Family_room_description{
+    position: absolute;
+width: 132px;
+height: 31px;
+left: 495px;
+top: 3944px;
+/* Больше основного */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+/* Тёмный */
+color: #424454;
+}
+
+.benefist1{
+    position: absolute;
+    width: 172px;
+    height: 27px;
+    left: 495px;
+    top: 4006px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist2{
+    position: absolute;
+    width: 96px;
+    height: 27px;
+    left: 495px;
+    top: 4038px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist3{
+    position: absolute;
+    width: 247px;
+    height: 27px;
+    left: 495px;
+    top: 4070px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist4{
+    position: absolute;
+    width: 108px;
+    height: 27px;
+    left: 495px;
+    top: 4102px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist5{
+    position: absolute;
+    width: 154px;
+    height: 27px;
+    left: 495px;
+    top: 4135px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist6{
+    position: absolute;
+    width: 61px;
+    height: 27px;
+    left: 855px;
+    top: 4006px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist7{
+    position: absolute;
+    width: 137px;
+    height: 27px;
+    left: 855px;
+    top: 4038px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist8{
+    position: absolute;
+    width: 207px;
+    height: 27px;
+    left: 855px;
+    top: 4070px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist9{
+    position: absolute;
+    width: 156px;
+    height: 27px;
+    left: 855px;
+    top: 4102px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.benefist10{
+    position: absolute;
+    width: 221px;
+    height: 27px;
+    left: 855px;
+    top: 4135px;
+    /* Основной текст_Raleway */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    /* Тёмный */
+    color: #424454;
+}
+
+.button_family_room{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 30px 84px;
+position: absolute;
+width: 255px;
+height: 78px;
+left: 495px;
+top: 4212px;
+/* Белый */
+background: #FFFFFF;
+/* Светло-коричневый */
+border: 1px solid #A18F88;
+box-sizing: border-box;
+}
+
+.rates_froom2{
+    position: absolute;
+width: 102px;
+height: 17px;
+left: 1273px;
+top: 4212px;
+/* Мелкий */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+letter-spacing: 0.25em;
+text-transform: uppercase;
+/* Светло-коричневый */
+color: #A18F88;
+}
+
+.cost2{
+    position: absolute;
+width: 152px;
+height: 50px;
+left: 1273px;
+top: 4240px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 100%;
+/* identical to box height, or 50px */
+text-transform: uppercase;
+/* Тёмный */
+color: #424454;
+}
+
+
+/* Подвал */
+
+
+
+.top_part{
+    position: absolute;
+width: 1920px;
+height: 534px;
+left: 0px;
+top: 4581px;
+background: #212121;
+}
+
+.Bottom_part{
+    position: absolute;
+width: 1920px;
+height: 104px;
+left: 0px;
+top: 5011px;
+background: #1A1A1A;
+}
+
+.phone{
+    position: absolute;
+left: 260.33px;
+right: 1646.31px;
+top: 107.33px;
+bottom: 413.33px;
+
+}
+
+.number{
+    position: relative;
+width: 146px;
+height: 27px;
+left: 294px;
+top: 100px;
+/* Основной текст_Raleway */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+/* Белый */
+color: #FFFFFF;
+}
+
+.mail{
+    position: absolute;
+left: 260px;
+right: 1646;
+top: 166px;
+bottom: 357;
+}
+
+.mail2{
+    position: absolute;
+width: 147px;
+height: 27px;
+left: 294px;
+top: 157px;
+/* Основной текст_Raleway */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+color: #FFFFFF;
+}
+
+.location{
+    position: absolute;
+left: 260px;
+right: 1646px;
+top: 219px;
+bottom: 297px;
+}
+
+.point_txt{
+    position: absolute;
+width: 492px;
+height: 27px;
+left: 294px;
+top: 214px;
+/* Основной текст_Raleway */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+/* Белый */
+color: #FFFFFF;
+}
+
+.circle{
+    position: absolute;
+left: 264px;
+right: 1650px;
+top: 223px;
+bottom: 305px;
+}
+
+.tviter{
+    position: absolute;
+left: 260.54px;
+right: 1646.54px;
+top: 282.46px;
+bottom: 240.46px;
+}
+
+.facebook{
+    position: absolute;
+left: 304.38px;
+right: 1607.31px;
+top: 279.69px;
+bottom: 237.69px;
+}
+
+.hotel{
+    position: absolute;
+    top: 106px;
+    left: 976px;
+    bottom: 184px;
+    right: 786px;
+
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+}
+
+.Marylebone_Inn_hotel{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.Roooms{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.Location{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.Gallery{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.about_hotel{
+    position: absolute;
+width: 138px;
+height: 244px;
+left: 1216px;
+top: 106px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+color: #FFFFFF;
+}
+
+.Events{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.About_Marylebone{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.Contact{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.Policies{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.offers{
+    position: absolute;
+width: 141px;
+height: 168px;
+left: 1456px;
+top: 106px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+color: #FFFFFF;
+}
+
+.Special_Offers{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.TripAdvisor_review{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.Additional_Services{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+
+.other{
+    position: absolute;
+width: 1410px;
+height: 14.87px;
+left: 255px;
+top: 44px;
+}
+
+.powered_by{
+    position: absolute;
+width: 67px;
+height: 12px;
+left: 0px;
+top: 0px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 100%;
+/* identical to box height, or 12px */
+color: #626262;
+}
+
+.sprite{
+    position: absolute;
+width: 107px;
+height: 14.87px;
+left: 86px;
+top: 0px;
+
+
+}
+
+.hotel_website{
+    position: absolute;
+    width: 202px;
+    height: 12px;
+    left: 212px;
+    top: 0px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 100%;
+    /* identical to box height, or 12px */
+    
+    
+    color: #626262;
+}
+
+.Privacy{
+    position: absolute;
+width: 131px;
+height: 12px;
+left: 1279px;
+top: 0px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 100%;
+/* identical to box height, or 12px */
+
+
+color: #626262;
+}
